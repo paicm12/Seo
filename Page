@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Page</title>
+    <meta charset ="utf-8">
+    <meta name="descrtipiton" content="      ">
+    <link rel="stylesheet" href="style.css"
+    <header> Article1</header>
+</head>
+    <body>
+       
+        <h1>La vraie histoire de Pere Noel</h1>
+       <p> 
+           On connaît le Père Noël d'aujourd'hui grâce à Coca-Cola, mais avant il y avait une tout autre histoire et ça a pris beaucoup du temps et transformations pour qu'il soit comme on le connaît aujourd'hui.
+            On commence l'aventure!
+            Le Père Noël aurait pour origine Saint Nicolas. Toute la symbolique de Saint Nicolas on la retrouve au Père Noël par exemple la barbe blanche, le manteau rouge et le faite qu'il voyage dans un traîneau tiré par de rennes quand Saint Nicolas voyageait  sur le dos  d'un âne.
+            La réforme protestante du XVIe siècle supprime la fête de Saint-Nicolas, mais les Hollandais gardent leur fête Sinter Klass et la distribution des jouets pour les enfants.
+            Une fois arrivée aux Etats-Unis, la fête de Sinter Klass se transforme en Santa Claus et subit des transformations vestimentaires aussi.
+            C'est Clement Clark Moore  qui écrit en 1821 un conte de Noël pour ses enfants, The night before Christmas(La nuit d'avant Noël) dans laquelle Père Noël apparaît dans son Traineau tiré par des rennes.
+            En 23 décembre 1823 Clement Clark MOORE rédige un texte intitulé A visit from Saint Nicholas(La visite de Saint-Nicolas) qui parut dans la journal Sentinel de New York. Le texte parlait des lutins qui distribuaient des cadeaux à la cheminée et se déplaçaient dans une carriole  tirée par 8 rennes. Le neuvième renne, Rudolf fut rajouté en 1939  chargé d'éclairer le chemin du Père Noël grâce à son nez rouge lumineux .
+            En 1863  le dessinateur Thomas Nast publie dans le journal New-Yorkays"Harper's Illustrated weekly,Santa Claus d'un costume garni de fourrure blanche et portant un large ceinturon. 
+        </p>
+            <img src="    "
+        <p>
+            En 1885 l'illustrateur de ce journal dessina le parcours du Santa Claus qui va du Pole Nord aux Etats-Unis et c'est comme ca que son résidence  officielle était établie.Un an plus tard ,l'écrivain Georges P.Webster précisa que la manufacture de jouets ainsi que la maison du Père Noël "étaient cachées dans la glace et la neige du Pôle Nord".
+            1931 et Coca-Cola!
+            La firme Américaine a demandé à Haddon Sundblom de dessiner ce vieux bonhomme en train de boire Coca-Cola pour reprendre des  forces pendant la distribution de jouets, ainsi les enfants seraient incités à en boire durant l'hiver. Le Père Noël était habillé dans les couleurs de la bouteille de Coca -Cola. Le Père Noël deviendra le maître planétaire de la nuit magique avec son nouveau look et la renommée que lui vaut la publicité.
+            Comme la nuit du 24 au 25 décembre, c'est à l'origine la journée de l'enfant Jésus les catholiques ont manifesté contre la popularité de Père Noël allant jusqu'à brûler l'effigie du Père Noël mais avec le temps tout est rentré dans le normal.
+            Le Père Noël symbolise l'attachement à notre famille, a nos proches c'est un lien entre nous comme adultes et notre enfance. Même si c'est un produit américain né pour nous inciter à consommer les plus petits comme les plus grands, on l'attend encore chaque année la nuit de Noël qui reste une nuit magique. 
+    
+        </p>
+            <img src="  " 
+<ul>
+            <li> <a href="page.html">Page 1 </a> </li>
+            <li> <a href="page1.html">Page 2 </a> </li>
+        </ul>   
+        
+
+
+
+        <h3>Bonne fête de fin d'année!!!!!</h3>
+
+        
+                                              
+       
+    </body>
+
+    </html>
